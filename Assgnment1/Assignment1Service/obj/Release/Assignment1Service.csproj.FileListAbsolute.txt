@@ -1,0 +1,7 @@
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Assignment1Service\bin\Assignment1Service.dll.config
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Assignment1Service\bin\Assignment1Service.dll
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Assignment1Service\bin\Assignment1Service.pdb
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Assignment1Service\obj\Release\Assignment1Service.csproj.AssemblyReference.cache
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Assignment1Service\obj\Release\Assignment1Service.csproj.CoreCompileInputs.cache
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Assignment1Service\obj\Release\Assignment1Service.dll
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Assignment1Service\obj\Release\Assignment1Service.pdb

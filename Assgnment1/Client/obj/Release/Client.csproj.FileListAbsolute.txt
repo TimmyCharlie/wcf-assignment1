@@ -1,0 +1,8 @@
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Client\bin\Release\Client.exe.config
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Client\bin\Release\Client.exe
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Client\bin\Release\Client.pdb
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Client\obj\Release\Client.csproj.AssemblyReference.cache
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Client\obj\Release\Client.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Client\obj\Release\Client.exe
+D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Client\obj\Release\Client.pdb

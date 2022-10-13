@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\OneDrive - Conestoga College\Class\3F\PROG3170 Distributed App\Assignments\wcf-assignment1\Assgnment1\Assignment1Service\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2022-10-12T23:32:29.6368895Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Assignment1Service.dll">
+      <publishTime>10/12/2022 19:32:29</publishTime>
+    </File>
+    <File Include="bin/Assignment1Service.pdb">
+      <publishTime>10/12/2022 19:32:29</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>10/12/2022 19:28:52</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/12/2022 19:32:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
