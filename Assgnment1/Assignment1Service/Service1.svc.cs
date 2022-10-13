@@ -39,13 +39,9 @@ namespace Assignment1Service
 
         public string ReverseString(string str)
         {
-            char[] chars = new char[str.Length];
-            foreach (char c in str)
-            {
-                chars.Prepend(c);
-            }
-            string newString = new string(chars);
-            return newString;
+            char[] charArray = str.ToCharArray();
+            Array.Reverse(charArray);
+            return new string(charArray);
         }
 
         public int[] Sort5(int[] ints, int order)
